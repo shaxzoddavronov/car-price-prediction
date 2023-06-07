@@ -1,2 +1,2 @@
-# Finding-best-classification-model
+# Finding-best-regression-model
 hi
